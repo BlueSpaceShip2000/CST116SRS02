@@ -1,8 +1,8 @@
-# CST116SRS02
+﻿# CST116SRS02
 I/O Stream Formatting
 
 
-Class ID: 
+Class ID: Whimsicott 
 
 SRS ID: CST116SRS02
 
